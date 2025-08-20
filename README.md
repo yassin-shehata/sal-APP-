@@ -18,14 +18,14 @@ It replicates **all features** of the original MATLAB App Designer code, includi
 ## 📂 Project Structure
 
 - **assets copy/** → UI icons & images  
-- **sal-app Version 1.43/** → Stable release  
+- **sal-app Version 1.43/** → Stable release (backend + UI working)  
   - **app/** → App package  
-    - `main.py` → Entry point  
+    - [`main.py`](https://drive.google.com/file/d/1aiCxou8RNMjWyrs9x4tE6TEJEzWMSO6F/view) → Entry point  
     - `utils.py`  
     - `ui_sal.py`  
   - `requirements.txt` → Python dependencies  
-- **sal-app Version 1.44/** → Latest development version  
-  - `main.py` → Entry point  
+- **sal-app Version 1.44/** → Latest development version (**backend not finished, UI basically complete**)  
+  - [`main.py`](https://drive.google.com/file/d/1uGehCfA-X6r2Slv1G497Mrb9k7ScZ_1L/view?usp=drive_link) → Entry point  
   - `utils.py`  
   - `ui_sal.py`  
   - `requirements.txt`  
