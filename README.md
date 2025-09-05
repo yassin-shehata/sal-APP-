@@ -1,5 +1,4 @@
-# sal-APP 🧪⚡
-
+# sal-APP 🧪⚡ (Research Internship)
 A Python application for chloride sensor calibration, measurement, and data export.  
 This project is a **full Python (PySide6 + Qt)** reimplementation of a MATLAB-based chloride sensor interface.  
 It replicates **all features** of the original MATLAB App Designer code, including:
